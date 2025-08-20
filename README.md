@@ -1,5 +1,5 @@
 # Skin-Disease-Classification-Model
-This project uses EfficientNet0 and the Diverse Dermatology Images dataset to create a reliable, fairness-aware model for classifying skin conditions into benign or malignant across varied skin tones. The aim is to turn images into actionable, responsible support for clinicians, researchers, and health programs. It does not replace expert judgement, but extends reach, speeds up triage, and surface patterns that can help improve care.
+This project uses a Convolutional Neural Network and the Diverse Dermatology Images dataset to create a reliable, fairness-aware model for classifying skin conditions into benign or malignant across varied skin tones. The aim is to turn images into actionable, responsible support for clinicians, researchers, and health programs. It does not replace expert judgement, but extends reach, speeds up triage, and surface patterns that can help improve care.
 
 Broader outcomes
 
